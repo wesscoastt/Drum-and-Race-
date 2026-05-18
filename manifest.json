@@ -2,7 +2,7 @@
   "name": "Drum and Race 3D",
   "short_name": "Drum and Race",
   "description": "A Wesscoastt game — 10 tracks, full garage, race through the underworld",
-  "start_url": "/DRUM_AND_RACE_3D.html",
+  "start_url": "/index.html",
   "scope": "/",
   "display": "fullscreen",
   "orientation": "portrait",
